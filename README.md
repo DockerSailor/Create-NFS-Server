@@ -19,4 +19,5 @@ Now we go to the Storage option and then acccess to the Pool submenu:
 Once there we create a pool:
 ![alt text](https://github.com/DockerSailor/Create-NFS-Server/blob/main/pool.png?raw=true)
 
-Now we move to the Shell option and move to the `/mnt/our_pool` so we move to `/mnt/NFS_Kubernetes`
+Now we move to the Shell option and move to the `/mnt/our_pool` so we move to `/mnt/NFS_Kubernetes`, then we switch the owner of the folder to ´chown nobody:nogroup /mnt/NFS_Kubernetes´ and give all permisions with ´chmod 777 /mnt/NFS_Kubernetes´:
+![alt text](https://github.com/DockerSailor/Create-NFS-Server/blob/main/shell.png?raw=true)
