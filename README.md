@@ -22,7 +22,7 @@ Once there we create a pool:
 Now we move to the Shell option and move to the `/mnt/our_pool` so we move to `/mnt/NFS_Kubernetes`, then we switch the owner of the folder to `chown nobody:nogroup /mnt/NFS_Kubernetes` and give all permisions with `chmod 777 /mnt/NFS_Kubernetes`:
 ![alt text](https://github.com/DockerSailor/Create-NFS-Server/blob/main/shell.png?raw=true)
 
-Finally, we go to the Sharing option and move to UNIX SHARES (NFS):
+Finally, we go to the Sharing option and move to Unix Shares (NFS):
 ![alt text](https://github.com/DockerSailor/Create-NFS-Server/blob/main/sharing.png?raw=true)
 
 And that´s how we have a functional NFS Server working.
