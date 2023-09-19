@@ -24,3 +24,7 @@ Now we move to the Shell option and move to the `/mnt/our_pool` so we move to `/
 
 
 ![alt text](https://github.com/DockerSailor/Create-NFS-Server/blob/main/sharing.png?raw=true)
+
+And that´s how we have a functional NFS Server working.
+
+And that's all folks!
