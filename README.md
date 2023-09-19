@@ -11,3 +11,4 @@ Once we have the ISO downloaded we start we check the specs for the installation
 - 16 GB SSD boot device
 - 2-Core Intel 64-Bit or AMD x86_64 processor
 
+Now when the system is installed, we log in through web-ui, we can get the server IP on the console logs when we start the server, in my case is [https://192.168.1.36](https://192.168.1.36])
