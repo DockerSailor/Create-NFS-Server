@@ -13,4 +13,5 @@ Once we have the ISO downloaded we start we check the specs for the installation
 
 Now when the system is installed, we log in through web-ui, we can get the server IP on the console logs when we start the server, in my case is [http://192.168.1.36](http://192.168.1.36]), when we try to log in we need to log with the root user and the password that we set up on the installation menu.
 
-Now we go to the Storage option and then acccess to the Pool submenu ![alt text](https://github.com/DockerSailor/Create-NFS-Server/blob/main/storage.png?raw=true)
+Now we go to the Storage option and then acccess to the Pool submenu:
+![alt text](https://github.com/DockerSailor/Create-NFS-Server/blob/main/storage.png?raw=true)
