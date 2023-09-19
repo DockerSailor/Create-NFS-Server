@@ -15,3 +15,6 @@ Now when the system is installed, we log in through web-ui, we can get the serve
 
 Now we go to the Storage option and then acccess to the Pool submenu:
 ![alt text](https://github.com/DockerSailor/Create-NFS-Server/blob/main/storage.png?raw=true)
+
+Once there we create a pool:
+![alt text](https://github.com/DockerSailor/Create-NFS-Server/blob/main/pool.png?raw=true)
