@@ -19,4 +19,4 @@ Now we go to the Storage option and then acccess to the Pool submenu:
 Once there we create a pool:
 ![alt text](https://github.com/DockerSailor/Create-NFS-Server/blob/main/pool.png?raw=true)
 
-Now we move to the Shell option and move to the '/mnt/our_pool' so we move to '/mnt/NFS_Kubernetes'
+Now we move to the Shell option and move to the `/mnt/our_pool` so we move to `/mnt/NFS_Kubernetes`
